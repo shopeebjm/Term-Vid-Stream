@@ -1,6 +1,6 @@
-# vid-term (Terminal Video Streamer)
+# Term-Vid-Stream (Terminal Video Streamer)
 
-`vid-term` is a high-performance, interactive Python CLI tool that allows you to stream video and live webcam feeds directly in your terminal using ASCII characters. It features real-time frame resizing, audio synchronization, and direct YouTube streaming support.
+`Term-Vid-Stream` adalah alat CLI Python interaktif berkinerja tinggi yang memungkinkan Anda untuk melakukan streaming video dan umpan webcam langsung di terminal Anda menggunakan karakter ASCII. Fitur-fiturnya meliputi pengubahan ukuran frame secara real-time, sinkronisasi audio, dan dukungan streaming langsung ke YouTube.
 
 ## Features
 
