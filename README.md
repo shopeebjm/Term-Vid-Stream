@@ -23,11 +23,11 @@
 - **Menu Interaktif:** Menu yang indah dan mudah digunakan inquireruntuk pemilihan sumber yang cepat.
 
 ## Prerequisites
-
-Before running `vid-term`, make sure you have the following installed on your system:
+- Sebelum menjalankan program `Term-Vid-Stream` pastikan Anda telah menginstal hal-hal berikut di sistem Anda 
 - **Python 3.7+**
-- **FFmpeg:** Required for audio playback and YouTube extraction.
-  - *Windows:* Install via `winget install ffmpeg` or download binaries from [gyan.dev](https://www.gyan.dev/ffmpeg/builds/). Ensure it is in your system PATH.
+- **FFmpeg:** Diperlukan untuk pemutaran audio dan ekstraksi YouTube.
+  - *Windows:* Instal melalui `winget install ffmpeg` atau unduh file biner dari [gyan.dev](https://www.gyan.dev/ffmpeg/builds/).
+Pastikan program tersebut ada di PATH sistem Anda.
 
 ## Installation
 
