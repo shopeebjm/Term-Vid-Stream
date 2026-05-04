@@ -10,6 +10,7 @@
   
 [![Powered By:shopeebjm](https://img.shields.io/badge/PoweredBy:shopeebjm-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
 
+# Deskripsi
 `Term-Vid-Stream` adalah alat CLI Python interaktif berkinerja tinggi yang memungkinkan Anda untuk melakukan streaming video dan umpan webcam langsung di terminal Anda menggunakan karakter ASCII. Fitur-fiturnya meliputi pengubahan ukuran frame secara real-time, sinkronisasi audio, dan dukungan streaming langsung ke YouTube.
 
 # Fitur
